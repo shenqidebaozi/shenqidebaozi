@@ -1,9 +1,4 @@
-### Hi there 👋
-- My name is baobao 🤗
-- I'm from Hulunbeier 🌿
-- I work in Tianjin now 💁
-- Using golang and node.js to develop 💻
-- How to reach me：wechat/906604588
+### 一个不知名的面向小黄鸭开发工程师
 <!--
 **shenqidebaozi/shenqidebaozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
