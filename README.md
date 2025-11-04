@@ -1,4 +1,6 @@
 ### 一个不知名的面向小黄鸭开发工程师
+
+最近在学习 Agentic Design Pattern。
 <!--
 **shenqidebaozi/shenqidebaozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
